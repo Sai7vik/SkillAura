@@ -19,3 +19,7 @@ build/
 
 # Others
 *.log
+# GloVe embeddings
+backend/glove/
+backend/glove/glove.6B.50d.txt
+
