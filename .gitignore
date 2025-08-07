@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+tenv/
+penv/
+*.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+
+# Others
+*.log

@@ -1,0 +1,8 @@
+{
+  "test@gmail.com": {
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$+H3PfwfMXvXKL11WXw9QeQ$47nny4ks4d9tElPPhvA737r3wbEWgT0vauP2EjuKXuo"
+  },
+  "test2@gmail.com": {
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$tVEJJh54jfvcKKuFRbVhBQ$bGOVn0TUPhvf6xfuNI3CbmRfpUTir2i5BISAalzlxNI"
+  }
+}
